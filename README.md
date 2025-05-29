@@ -30,7 +30,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/JustNom.git
+git clone [https://github.com/your-username/JustNom.git](https://github.com/DominicIwuanyanwu/FoodOrderApp_ConsoledBased.git)
 Open in Visual Studio
 
 Launch Visual Studio
