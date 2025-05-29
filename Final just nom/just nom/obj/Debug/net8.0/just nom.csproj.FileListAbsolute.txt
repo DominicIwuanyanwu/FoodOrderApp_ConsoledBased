@@ -1,0 +1,15 @@
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\bin\Debug\net8.0\just nom.exe
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\bin\Debug\net8.0\just nom.deps.json
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\bin\Debug\net8.0\just nom.runtimeconfig.json
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\bin\Debug\net8.0\just nom.dll
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\bin\Debug\net8.0\just nom.pdb
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\obj\Debug\net8.0\just nom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\obj\Debug\net8.0\just nom.AssemblyInfoInputs.cache
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\obj\Debug\net8.0\just nom.AssemblyInfo.cs
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\obj\Debug\net8.0\just nom.csproj.CoreCompileInputs.cache
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\obj\Debug\net8.0\just nom.sourcelink.json
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\obj\Debug\net8.0\just nom.dll
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\obj\Debug\net8.0\refint\just nom.dll
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\obj\Debug\net8.0\just nom.pdb
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\obj\Debug\net8.0\just nom.genruntimeconfig.cache
+C:\Users\iwuan\Documents\1 visual studio work\Final just nom\just nom\obj\Debug\net8.0\ref\just nom.dll

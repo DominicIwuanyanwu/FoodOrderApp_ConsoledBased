@@ -1,0 +1,4 @@
+﻿Name:Boring Pizza Shop
+Toppings:[<cheese,80>,<tomato sauce,40>]
+Garnishes:[]
+Pizza:<Name:Margherita,Toppings:[tomato sauce, cheese],Price:500>

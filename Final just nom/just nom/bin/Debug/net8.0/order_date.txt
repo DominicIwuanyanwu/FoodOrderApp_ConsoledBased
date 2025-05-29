@@ -1,0 +1,14 @@
+Order for date
+Food Items:
+- Margherita pizza: £9
+  Toppings:
+    - Pepperoni: £1
+- Cheese Burger: £9.25
+  Garnishes:
+    - Lettuce: £0.25
+Total: £18.25
+Delivery Address:
+Address: 5 date
+Telephone: 2774
+Delivery Charge:2
+Total Delivery Price: £20.25

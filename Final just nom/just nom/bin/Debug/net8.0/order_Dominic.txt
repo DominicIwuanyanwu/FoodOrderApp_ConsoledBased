@@ -1,0 +1,9 @@
+Order for dominic
+Food Items:
+- Meat Lover's pizza: £10.75
+  Toppings:
+    - Olives: £0.75
+- Cheese Burger: £9.25
+  Garnishes:
+    - Lettuce: £0.25
+Total: £20
